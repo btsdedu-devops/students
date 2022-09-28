@@ -6,6 +6,8 @@ students_ssh_keys:
     key: "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQC3fPUJsUL6gNIUuVpoNukcpSqfePimmdba0psvSNvVZVTR4CBB1tO70BtL9m9WBQ2hQtzbgr6UyN3EZq4ZCSRpRtOnL7rVqMr0ETb5G3GaRCB0rPj+D+Iwj4aXm3rJEib9TPC2ao0veF7u8ZqqGsiJHKznclW4o4Uyi6Sq0N2CX4wk95rwiVVOr6j1P+K5Uuz7vawGekBbpB5Apj/fRWtBc3vFgV7iMWL2UJva2GMlniCAI1do7+SI57tc5pzajj1YqHh7a08Aj1liWaDXPX1cHtnq5BORgZttmi+DxcfieG+badnBYzKn9zK9jx65rhvPudn2jbdTzlihXLgNR5P/ root@srvalm"
   - name: "boldachyov_marat"
     key: "#SSH PUBLIC KEY"
+  - name: "kirill_paliy"
+    key: "AAAAB3NzaC1yc2EAAAADAQABAAABAQCb9kFTVakLxEy1MVxP9wxIjhJfwQAF5q+4JgbNmquErPhBmm/QqEbfuzIeD5ekLInym/r3aMmW3/YgNd9BgDM+lSuOFymyS+OzMP1tLbDkVBaxj9QcItPX/P3PdtGCLJ0W5sZOxBtTlkoq/Y6RtMmW+o1mCeP6pl/ufzhJGvsufKDOBtdiuWsvLQDzb3LIrzeHrgcSlRo9Tj7/eKxVo6q9L2V4WK/iHlaCdZ94IyV2ID1vEWJWhIDgbdW0BCCrWeqeJFm2xRXhAsTIjFSINXsLKLAz9kL8hGCUaZTTpo2XFRF9k+R6PMuK1kX5I8FfsWad2HfWetsq6lAHIQCVz6FV"
 
 Cписок студентов:
     "boldachyov_marat",
