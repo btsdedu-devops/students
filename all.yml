@@ -53,4 +53,4 @@ students_ssh_keys:
   - name: "sharipov_madiyar"
     key: "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQCgbf3Y014nnTrjiO8+nO8OyHt1WV8oRB4LWdN0726qntR4ToqJCFkYlx/jbQ99lObAGefn4IUW/Fv65V/FRtAk91tsOzloG/6aCOOmTEl9XxTWzo439Gf1LEhuvLr2eG9dqFHt707hh24suIv6Z3KVtNJ2OULectHVfkCV4ozsg+sAgOXSLAodeNTZ8zO0jB1QOaPZg3LP97kmJw6/L81iPzainzKhWYvBWP8ZP8UrLG8Jdrshsd2zoGDHXBj2TFjUNKGRtKsQ0bhRsxfjqm2NO+zQNPuUzHgY79uZXAihSzsj+mAjyzAylobgIG8Dh9EgN9qw4ILSUs9CQVitIXdF4oX719MlbNJR7AR2Lh2Dl7KybdPClnsho/EhSHow/D27t9TAYTv4xFmwVI91hAHdwPuppXcVH42fXxOVwleVdmMu6LDcWf5J1w9oILIhFYm4X8ULzW0FLe6IdHGQY8LF/C6mvjrKqSrb4wFWicKeViGNsHMmzll/xQ5lJQO01pE= madiyarsharipov@Madiyars-MacBook-Pro.local"
   - name: "boltabay_aniya"
-  - key: "SHA256:k43bm82KTuON0cDe59UI06mp1TWKSj4s9HThcK7r1WI kali@kali"
+    key: "SHA256:k43bm82KTuON0cDe59UI06mp1TWKSj4s9HThcK7r1WI kali@kali"
